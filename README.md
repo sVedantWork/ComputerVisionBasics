@@ -5,6 +5,7 @@ Using the simple implementation of libraries such as Mediapipe and OpenCv as wel
 * 1] Medium quialty webcam.
 * 2] Laptop/ PC Screen as the display window is 1280 x 720
 * 3] Elementary understanding of python.
+* 4] Make sure the palm is always facing the webcam and parallel to it to get the best results.
 
 # AI_PAINTER: 
 I've made a AI painter wherein using the index finger we can draw on the display window with 4 different color options. 
@@ -25,3 +26,10 @@ I've created and implemented this program using pycharm professional, this can b
 * 1] Install OpenCv using instructions: https://docs.opencv.org/4.5.2/d5/de5/tutorial_py_setup_in_windows.html.    
 * 2] Pull all the required files in the same folder {HandTrackingBasics_Module.py & AI_Virtual_Mouse.py}
 * 3] Play around with the mouse and have fun :)
+
+# VOLUME_CONTROL:
+I've made a Voulme Gesture Control which uses hand tracking mechanism to track the index finger and thumb and based on the distance between the two fingers it increases and decreases the volume of the laptop accordingly.
+* 1] Install OpenCv using instructions: https://docs.opencv.org/4.5.2/d5/de5/tutorial_py_setup_in_windows.html.    
+* 2] Pull all the required files in the same folder {VolumeHandControl.py & HandTrackingBasics_Module.py}
+* 3] As the distance between the fingers increases the volume increases and vice versa.
+* 4] Play around and have fun :)
