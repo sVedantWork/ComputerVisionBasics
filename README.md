@@ -29,6 +29,7 @@ I've created and implemented this program using pycharm professional, this can b
 
 # VOLUME_CONTROL:
 I've made a Voulme Gesture Control which uses hand tracking mechanism to track the index finger and thumb and based on the distance between the two fingers it increases and decreases the volume of the laptop accordingly.
+# Instructions for running the program:
 * 1] Install OpenCv using instructions: https://docs.opencv.org/4.5.2/d5/de5/tutorial_py_setup_in_windows.html.    
 * 2] Pull all the required files in the same folder {VolumeHandControl.py & HandTrackingBasics_Module.py}
 * 3] As the distance between the fingers increases the volume increases and vice versa.
