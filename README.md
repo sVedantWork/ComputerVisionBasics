@@ -4,6 +4,7 @@ Using the simple implementation of libraries such as Mediapipe and OpenCv as wel
 # PreRequisites:
 * 1] Medium quialty webcam.
 * 2] Laptop/ PC Screen as the display window is 1280 x 720
+* 3] Elementary understanding of python.
 
 
 # Instructions for running the program:
