@@ -1,4 +1,4 @@
-# Credits: https://www.youtube.com/watch?v=8gPONnGIPgw
+# Credits: FreeCodeCamp
 import cv2
 import mediapipe as mp
 import numpy as np
