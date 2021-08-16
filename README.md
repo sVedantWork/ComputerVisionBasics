@@ -2,8 +2,8 @@
 Using the simple implementation of libraries such as Mediapipe and OpenCv as well as  elementary level python, I've created a few fun projects with the guidance of FreeCodeCamp and other rescources.
 
 # PreRequisites:
-1] Medium quialty webcam.
-2] Laptop/ PC Screen as the display window is 1280 x 720
+* 1] Medium quialty webcam.
+* 2] Laptop/ PC Screen as the display window is 1280 x 720
 
 
 # Instructions for running the program:
