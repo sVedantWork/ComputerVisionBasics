@@ -45,4 +45,4 @@ I've created and implemented this program using pycharm professional, this can b
 * 3] When the index and middle finger are adjacent to each other, it clicks on the button.
 * 4] When the middle and index fingers are folded such that they are touching the palm it triggers backspace.
 * 5] When little finger and thumb are far apart it triggers space key.
-* 3] Play around with the keyboard and have fun :)
+* 6] Play around with the keyboard and have fun :)
