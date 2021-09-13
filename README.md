@@ -43,6 +43,6 @@ I've created and implemented this program using pycharm professional, this can b
 * 1] Install OpenCv using instructions: https://docs.opencv.org/4.5.2/d5/de5/tutorial_py_setup_in_windows.html.    
 * 2] Pull all the required files in the same folder {HandTrackingBasics_Module.py & AI_Keyboard.py}
 * 3] When the index and middle finger are adjacent to each other, it clicks on the button.
-* 4] When the middle and index fingers are folded such that they are touching the palm it triggers backspace.
+* 4] When the middle and ring fingers are folded such that they are touching the palm it triggers backspace.
 * 5] When little finger and thumb are far apart it triggers space key.
 * 6] Play around with the keyboard and have fun :)
